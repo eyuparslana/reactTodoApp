@@ -1,3 +1,16 @@
+# TODO APPLICATION
+
+##How to Use
+
+before run the app you have to run backend service from
+
+```bash
+https://github.com/eyuparslana/javaSpringTodoBackend.git
+```
+
+after run the service you can use the app from localhost:3000
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
